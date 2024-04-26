@@ -1,0 +1,5 @@
+*.pro
+*.user
+*.kdev4
+apidocs
+TODO
